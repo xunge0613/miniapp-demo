@@ -1,0 +1,4 @@
+<view class='container'>
+	<text>Demo for create QR code Image with wxqrcode.js </text>
+	<image src="{{qrcode}}" class="qrcode"></image>
+</view>

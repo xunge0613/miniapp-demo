@@ -1,0 +1,12 @@
+page{
+	height:100%
+}
+text {
+	text-align: center;
+}
+.qrcode {
+  width: 278rpx;
+  height: 278rpx;
+  display: block;
+  margin: 0 auto;  
+}
