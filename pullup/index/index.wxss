@@ -1,0 +1,14 @@
+.wrapper{
+    width: 100%;
+    height:100%;
+    overflow: hidden;
+}
+ 
+.scroller .slide{
+    height:100px;
+    display: block;
+}
+
+.scroller2 {
+  height: 600px;
+}
